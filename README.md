@@ -18,7 +18,8 @@ RSpec was started as an experiment by Steven Baker in 2005 along with his team m
 
 <a name="references"></a>
 ## 2. Official references websites. 
-RSpec official website : https://sqlite.org <br />
+RSpec official website : https://rspec.info <br />
+RSpec official documentation : https://rspec.info/documentation/ <br />
 
 **_RSpec questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
