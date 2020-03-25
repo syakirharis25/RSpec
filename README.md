@@ -20,6 +20,7 @@ RSpec was started as an experiment by Steven Baker in 2005 along with his team m
 ## 2. Official references websites. 
 RSpec official website : https://rspec.info <br />
 RSpec official documentation : https://rspec.info/documentation/ <br />
+RSpec official GitHub page : https://github.com/rspec/rspec-rails <br />
 
 **_RSpec questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
