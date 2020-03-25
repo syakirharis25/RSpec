@@ -29,6 +29,7 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_RSpec related articles_** <br />
 Project: RSpec Expectations 3-9 by Relish : https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers <br />
+What Is Automation Testing (Ultimate Guide To Start Test Automation) by Software Testing Help : https://www.softwaretestinghelp.com/automation-testing-tutorial-1/ <br />
 
 <a name="developers"></a>
 ## 3. RSpec developers.
