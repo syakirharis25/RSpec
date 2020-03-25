@@ -18,24 +18,34 @@ RSpec was started as an experiment by Steven Baker in 2005 along with his team m
 
 <a name="references"></a>
 ## 2. Official references websites. 
-RSpec official website : https://sqlite.org <br />
+RSpec official website : https://rspec.info <br />
+RSpec official documentation : https://rspec.info/documentation/ <br />
+RSpec official GitHub page : https://github.com/rspec/rspec-rails <br />
 
 **_RSpec questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_RSpec questions and answers by Stack Overflow_** <br />
-[ draft ]
+Rspec `eq` vs `eql` in `expect` tests by Stack Overflow : https://stackoverflow.com/questions/32926817/rspec-eq-vs-eql-in-expect-tests/32926980 <br />
+what does the “it” keyword do in RSpec? by Stack Overflow : https://stackoverflow.com/questions/8883434/what-does-the-it-keyword-do-in-rspec <br />
 
 **_RSpec related articles_** <br />
-[ draft ]
+Project: RSpec Expectations 3-9 by Relish : https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers <br />
+What Is Automation Testing (Ultimate Guide To Start Test Automation) by Software Testing Help : https://www.softwaretestinghelp.com/automation-testing-tutorial-1/ <br />
 
 <a name="developers"></a>
 ## 3. RSpec developers.
-[ draft ]
+Aslak Hellesøy : https://github.com/aslakhellesoy, https://twitter.com/aslak_hellesoy <br />
+Dave Astels : https://github.com/dastels, https://twitter.com/dastels <br />
+David Chelimsky : https://github.com/dchelimsky, https://twitter.com/dchelimsky <br />
+Ian Dees : https://github.com/iandees <br />
+Myron Marston : https://github.com/myronmarston, https://twitter.com/myronmarston <br />
 
 <a name="books"></a>
 ## 4. RSpec books.
-**Effective Testing with RSpec 3 Build Ruby Apps with Confidence** by **_Myron Marston_** and **_Ian Dees_**, edited by **_Jacquelyn Carter_** 
+**Effective Testing with RSpec 3 Build Ruby Apps with Confidence** by **_Myron Marston_** and **_Ian Dees_**, edited by **_Jacquelyn Carter_**
+<br /><br />
+<img src="rspec3_book.jpg" height="500"> 
  
 <a name="github"></a>
 ## 5. GitHub notes.
