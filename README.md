@@ -27,6 +27,7 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_RSpec questions and answers by Stack Overflow_** <br />
 Rspec `eq` vs `eql` in `expect` tests by Stack Overflow : https://stackoverflow.com/questions/32926817/rspec-eq-vs-eql-in-expect-tests/32926980 <br />
+what does the “it” keyword do in RSpec? by Stack Overflow : https://stackoverflow.com/questions/8883434/what-does-the-it-keyword-do-in-rspec <br />
 
 **_RSpec related articles_** <br />
 Project: RSpec Expectations 3-9 by Relish : https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers <br />
