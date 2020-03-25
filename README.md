@@ -28,7 +28,7 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 [ draft ]
 
 **_RSpec related articles_** <br />
-[ draft ]
+Project: RSpec Expectations 3-9 by Relish : https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers <br />
 
 <a name="developers"></a>
 ## 3. RSpec developers.
