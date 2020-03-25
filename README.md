@@ -31,7 +31,11 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 <a name="developers"></a>
 ## 3. RSpec developers.
-[ draft ]
+Aslak Hellesøy : https://github.com/aslakhellesoy, https://twitter.com/aslak_hellesoy <br />
+Dave Astels : https://github.com/dastels, https://twitter.com/dastels <br />
+David Chelimsky : https://github.com/dchelimsky, https://twitter.com/dchelimsky <br />
+Ian Dees : https://github.com/iandees <br />
+Myron Marston : https://github.com/myronmarston, https://twitter.com/myronmarston <br />
 
 <a name="books"></a>
 ## 4. RSpec books.
