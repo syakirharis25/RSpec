@@ -35,7 +35,8 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 <a name="books"></a>
 ## 4. RSpec books.
-**Effective Testing with RSpec 3 Build Ruby Apps with Confidence** by **_Myron Marston_** and **_Ian Dees_**, edited by **_Jacquelyn Carter_** 
+**Effective Testing with RSpec 3 Build Ruby Apps with Confidence** by **_Myron Marston_** and **_Ian Dees_**, edited by **_Jacquelyn Carter_**
+<img src="rspec3_book.png" height="500"> 
  
 <a name="github"></a>
 ## 5. GitHub notes.
