@@ -36,6 +36,7 @@ How to use require_relative with an rspec test? by Stack Overflow : https://stac
 Project: RSpec Expectations 3-9 by Relish : https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers <br />
 What Is Automation Testing (Ultimate Guide To Start Test Automation) by Software Testing Help : https://www.softwaretestinghelp.com/automation-testing-tutorial-1/ <br />
 Never test that something is raising StandardError! by Mario Kostelac : https://medium.com/@mariokostelac/never-test-that-something-is-raising-standarderror-83bdc0deed01 <br />
+RSpec - Basic Syntax by tutorialspoint : https://www.tutorialspoint.com/rspec/rspec_basic_syntax.htm <br />
 
 <a name="developers"></a>
 ## 3. RSpec developers.
