@@ -34,6 +34,7 @@ How to test exception raising in Rails/RSpec? by Stack Overflow : https://stacko
 **_RSpec related articles_** <br />
 Project: RSpec Expectations 3-9 by Relish : https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers <br />
 What Is Automation Testing (Ultimate Guide To Start Test Automation) by Software Testing Help : https://www.softwaretestinghelp.com/automation-testing-tutorial-1/ <br />
+Never test that something is raising StandardError! by Mario Kostelac : https://medium.com/@mariokostelac/never-test-that-something-is-raising-standarderror-83bdc0deed01 <br />
 
 <a name="developers"></a>
 ## 3. RSpec developers.
@@ -42,6 +43,7 @@ Dave Astels : https://github.com/dastels, https://twitter.com/dastels <br />
 David Chelimsky : https://github.com/dchelimsky, https://twitter.com/dchelimsky <br />
 Ian Dees : https://github.com/iandees <br />
 Myron Marston : https://github.com/myronmarston, https://twitter.com/myronmarston <br />
+Mario Kostelac : https://github.com/mariokostelac, https://twitter.com/mariokostelac <br />
 
 <a name="books"></a>
 ## 4. RSpec books.
