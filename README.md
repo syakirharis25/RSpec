@@ -30,6 +30,7 @@ Rspec `eq` vs `eql` in `expect` tests by Stack Overflow : https://stackoverflow.
 what does the “it” keyword do in RSpec? by Stack Overflow : https://stackoverflow.com/questions/8883434/what-does-the-it-keyword-do-in-rspec <br />
 Where is rails_helper.rb file? by Stack Overflow : https://stackoverflow.com/questions/33715298/where-is-rails-helper-rb-file <br />
 How to test exception raising in Rails/RSpec? by Stack Overflow : https://stackoverflow.com/questions/22141601/how-to-test-exception-raising-in-rails-rspec <br />
+How to use require_relative with an rspec test? by Stack Overflow : https://stackoverflow.com/questions/47270064/how-to-use-require-relative-with-an-rspec-test <br />
 
 **_RSpec related articles_** <br />
 Project: RSpec Expectations 3-9 by Relish : https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers <br />
